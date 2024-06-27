@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   sodipodi:docname="pqkunarkmap-pop.svg"
+   sodipodi:docname="quarmpop.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -30,8 +30,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.0449705"
-     inkscape:cx="180.86635"
-     inkscape:cy="503.84197"
+     inkscape:cx="602.88783"
+     inkscape:cy="586.14095"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="-8"
@@ -325,157 +325,28 @@
          transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
          inkscape:connector-curvature="0" />
     </marker>
-    <filter
-       id="filter5212-5"
-       inkscape:label="Drop shadow"
-       width="1.0187948"
-       height="1.1207652"
-       x="-0.0070606231"
-       y="-0.045367802"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur5214-6"
-         in="SourceAlpha"
-         stdDeviation="0.8"
-         result="blur" />
-      <feColorMatrix
-         id="feColorMatrix5216-7"
-         result="bluralpha"
-         type="matrix"
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 " />
-      <feOffset
-         id="feOffset5218-5"
-         in="bluralpha"
-         dx="1.5"
-         dy="1.5"
-         result="offsetBlur" />
-      <feMerge
-         id="feMerge5220-4">
-        <feMergeNode
-           id="feMergeNode5222-2"
-           in="offsetBlur" />
-        <feMergeNode
-           id="feMergeNode5224-9"
-           in="SourceGraphic" />
-      </feMerge>
-    </filter>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient23"
-       id="radialGradient22"
-       cx="259.73566"
-       cy="-318.20978"
-       fx="259.73566"
-       fy="-318.20978"
-       r="113.03767"
-       gradientTransform="matrix(0.26458333,0,0,0.08689103,-0.57056005,75.871168)"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       id="linearGradient23">
-      <stop
-         style="stop-color:#ff0000;stop-opacity:1;"
-         offset="0"
-         id="stop24" />
-      <stop
-         style="stop-color:#ff0000;stop-opacity:1;"
-         offset="0.37864077"
-         id="stop25" />
-    </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient23"
-       id="radialGradient1"
-       cx="259.73566"
-       cy="-318.20978"
-       fx="259.73566"
-       fy="-318.20978"
-       r="113.03767"
-       gradientTransform="matrix(1,0,0,0.32840703,2,-211.70744)"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient23"
-       id="radialGradient2"
-       cx="259.73566"
-       cy="-318.20978"
-       fx="259.73566"
-       fy="-318.20978"
-       r="113.03767"
-       gradientTransform="matrix(1,0,0,0.32840703,2,-211.70744)"
-       gradientUnits="userSpaceOnUse" />
-    <marker
-       inkscape:stockid="Arrow2Lend"
-       orient="auto"
-       refY="0"
-       refX="-8"
-       id="Arrow2Lend-7"
-       style="overflow:visible"
-       viewBox="0 0 12.018466 8.8389873"
-       markerWidth="13.018"
-       markerHeight="9.5740948"
-       preserveAspectRatio="xMidYMid"
-       markerUnits="userSpaceOnUse">
-      <path
-         id="path4682-5"
-         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:stockid="EmptyDiamondL"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="EmptyDiamondL-1"
-       style="overflow:visible"
-       viewBox="0 0 12.822203 12.822203"
-       markerWidth="12.822"
-       markerHeight="12.822"
-       preserveAspectRatio="xMidYMid"
-       markerUnits="strokeWidth">
-      <path
-         id="path4998-6"
-         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
-         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
-         transform="scale(0.8)" />
-    </marker>
-    <marker
-       inkscape:stockid="EmptyDiamondL"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker4"
-       style="overflow:visible"
-       viewBox="0 0 12.822203 12.822203"
-       markerWidth="12.822"
-       markerHeight="12.822"
-       preserveAspectRatio="xMidYMid"
-       markerUnits="strokeWidth">
-      <path
-         id="path4-2"
-         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
-         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
-         transform="scale(0.8)" />
-    </marker>
   </defs>
-  <g
-     inkscape:groupmode="layer"
-     id="layer6"
-     inkscape:label="Background"
-     sodipodi:insensitive="true">
-    <rect
-       style="display:inline;fill:#2e231c;fill-opacity:1;fill-rule:evenodd;stroke:#fff8f8;stroke-width:0.725211;stroke-dasharray:0.725211, 1.45043"
-       id="rect1"
-       width="571.02832"
-       height="339.77365"
-       x="-15.514171"
-       y="-15.765082" />
-  </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <text
+       id="text4592-4-4"
+       y="-90.165276"
+       x="-28.736265"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.6923px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#007d7d;fill-opacity:1;stroke:none;stroke-width:0.692308;stroke-dasharray:none;filter:url(#filter5212)"
+       xml:space="preserve"
+       transform="matrix(0.38217591,0,0,0.38217591,19.972585,62.758076)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.6923px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff7d00;fill-opacity:1;stroke-width:0.692308;stroke-dasharray:none"
+         y="-90.165276"
+         x="-28.736265"
+         id="tspan4594-3-1"
+         sodipodi:role="line">Project Quarm</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5988"
+       d="M 9.1676647,35.73994 H 135.64326"
+       style="fill:none;stroke:#000000;stroke-width:0.358754;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        id="g1"
        style="opacity:0.25">
@@ -1905,516 +1776,443 @@
            id="path67" />
       </g>
     </g>
+    <text
+       id="text4776-7"
+       y="48.044476"
+       x="67.110725"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none"
+       xml:space="preserve"><tspan
+         y="48.044476"
+         x="67.110725"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583;stroke-dasharray:none"
+         id="tspan66-0">Everquest </tspan><tspan
+         y="60.391689"
+         x="67.110725"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583;stroke-dasharray:none"
+         id="tspan42-8">Kunark 2.x Era</tspan></text>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:none;stroke:#007d7d;stroke-width:1.14527;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect5997"
+       width="100.30893"
+       height="121.64513"
+       x="18.168718"
+       y="65.668549" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.306417"
+       x="55.628952"
+       y="73.516251"
+       id="text6002"
+       transform="scale(0.98385629,1.0164086)"><tspan
+         sodipodi:role="line"
+         id="tspan6004"
+         x="55.628952"
+         y="73.516251"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.306417">Legend</tspan></text>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:#383838;stroke-width:0.306417;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect3787-45-9-1-6-6"
+       width="18.088247"
+       height="18.68672"
+       x="23.01576"
+       y="79.087517"
+       ry="4.6716805" />
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:#383838;stroke-width:0.306417;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect3787-45-21-5"
+       width="18.088247"
+       height="18.68672"
+       x="45.626049"
+       y="79.087524" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.306417"
+       x="26.019333"
+       y="88.372284"
+       id="text6044"
+       transform="scale(0.98385629,1.0164086)"><tspan
+         sodipodi:role="line"
+         id="tspan6046"
+         x="26.019333"
+         y="88.372284"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.306417">Indoors</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.306417"
+       x="47.084797"
+       y="88.372292"
+       id="text6048"
+       transform="scale(0.98385629,1.0164086)"><tspan
+         sodipodi:role="line"
+         id="tspan6050"
+         x="47.084797"
+         y="88.372292"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.306417">Outdoors</tspan></text>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:#383838;stroke-width:0.306417;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect3787-45-21-5-18"
+       width="18.088247"
+       height="18.68672"
+       x="22.897736"
+       y="128.28143" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.306417"
+       x="32.386398"
+       y="131.36752"
+       id="text6048-9"
+       transform="scale(0.98385629,1.0164086)"><tspan
+         sodipodi:role="line"
+         id="tspan6050-7"
+         x="32.386398"
+         y="131.36752"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.306417">Zone</tspan><tspan
+         sodipodi:role="line"
+         x="32.386398"
+         y="136.21823"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.306417"
+         id="tspan55">Currently</tspan><tspan
+         sodipodi:role="line"
+         x="32.386398"
+         y="141.06894"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.306417"
+         id="tspan103">Inactive</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.306417px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 76.028059,86.155478 99.069026,85.933012"
+       id="path3865-7-54-3"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.306417;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.45134, 1.22567;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 76.028059,93.941613 99.069026,93.719146"
+       id="path3865-7-54-4"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.306417"
+       x="74.649132"
+       y="81.48156"
+       id="text6077"
+       transform="scale(0.98385629,1.0164086)"><tspan
+         sodipodi:role="line"
+         id="tspan6079"
+         x="74.649132"
+         y="81.48156"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.306417">Zone Connection</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.306417"
+       x="73.554771"
+       y="89.964371"
+       id="text6081"
+       transform="scale(0.98385629,1.0164086)"><tspan
+         sodipodi:role="line"
+         id="tspan6083"
+         x="73.554771"
+         y="89.964371"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.306417">Ocean Connection</tspan></text>
+    <ellipse
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.306417;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="path6085-1"
+       cx="75.175964"
+       cy="109.20794"
+       rx="2.2610309"
+       ry="2.3358402" />
+    <path
+       sodipodi:type="star"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.0776;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="path6105"
+       sodipodi:sides="3"
+       sodipodi:cx="420"
+       sodipodi:cy="285"
+       sodipodi:r1="11.18034"
+       sodipodi:r2="5.5901699"
+       sodipodi:arg1="0.46364761"
+       sodipodi:arg2="1.5108452"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 430,290 -19.33013,1.16025 8.66026,-17.3205 z"
+       transform="matrix(0.27937748,0.01512599,-0.01464155,0.2886211,-38.001085,28.625082)"
+       inkscape:transform-center-x="-0.039382621"
+       inkscape:transform-center-y="-2.5596105" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.306417"
+       x="81.004807"
+       y="108.33756"
+       id="text6107"
+       transform="scale(0.98385629,1.0164086)"><tspan
+         sodipodi:role="line"
+         id="tspan6109"
+         x="81.004807"
+         y="108.33756"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.306417">Druid Portal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.306417"
+       x="81.1987"
+       y="116.2542"
+       id="text6111"
+       transform="scale(0.98385629,1.0164086)"><tspan
+         sodipodi:role="line"
+         id="tspan6113"
+         x="81.1987"
+         y="116.2542"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.306417">Wizard Portal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.306417"
+       x="80.995827"
+       y="123.64906"
+       id="text6111-1"
+       transform="scale(0.98385629,1.0164086)"><tspan
+         sodipodi:role="line"
+         id="tspan6113-1"
+         x="80.995827"
+         y="123.64906"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.306417">Knowledge Portal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.306417"
+       x="80.99762"
+       y="131.3181"
+       id="text6111-1-2"
+       transform="scale(0.98385629,1.0164086)"><tspan
+         sodipodi:role="line"
+         x="80.99762"
+         y="131.3181"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.306417"
+         id="tspan96">Firepot Portal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.306417"
+       x="81.220718"
+       y="139.07063"
+       id="text6111-1-7"
+       transform="scale(0.98385629,1.0164086)"><tspan
+         sodipodi:role="line"
+         id="tspan6113-1-5"
+         x="81.220718"
+         y="139.07063"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.306417">Shaman Portal</tspan></text>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:#ff3838;stroke-width:0.318199;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect3787-45-21-5-1"
+       width="19.518587"
+       height="18.674746"
+       x="22.182566"
+       y="102.45192" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4130ff;fill-opacity:1;stroke:none;stroke-width:0.306417"
+       x="32.63987"
+       y="108.80862"
+       id="text4386"
+       transform="scale(0.98385629,1.0164086)"><tspan
+         sodipodi:role="line"
+         id="tspan4389"
+         x="32.63987"
+         y="108.80862"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4130ff;fill-opacity:1;stroke-width:0.306417">Planar:</tspan><tspan
+         sodipodi:role="line"
+         x="32.63987"
+         y="113.65932"
+         id="tspan4391"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4130ff;fill-opacity:1;stroke-width:0.306417">Level 46+</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.306417px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend-9)"
+       d="m 76.028059,101.72775 23.040967,-0.22247"
+       id="path3865-7-54-3-1"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text4714"
+       y="97.731003"
+       x="70.362404"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.306417"
+       xml:space="preserve"
+       transform="scale(0.98385629,1.0164086)"><tspan
+         y="97.731003"
+         x="70.362404"
+         id="tspan4716"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.306417">1-way Zone Connection</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.5369px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#007be7;fill-opacity:0.791897;fill-rule:evenodd;stroke:#000000;stroke-width:0.306417;stroke-dasharray:none;stroke-opacity:0.854512"
+       x="76.104675"
+       y="124.46688"
+       id="text88"
+       transform="scale(0.98385629,1.0164086)"><tspan
+         sodipodi:role="line"
+         id="tspan88"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.5369px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#007be7;fill-opacity:0.791897;stroke:#000000;stroke-width:0.306417;stroke-dasharray:none;stroke-opacity:0.854512"
+         x="76.104675"
+         y="124.46688">K</tspan></text>
+    <g
+       id="g108"
+       style="opacity:0.25"
+       transform="matrix(0.26458333,0,0,0.26458333,-2.7848138,133.70096)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.15811"
+         x="220.66609"
+         y="10.587096"
+         id="text6111-1-71"
+         transform="scale(0.98385629,1.0164086)"><tspan
+           sodipodi:role="line"
+           id="tspan6113-1-9"
+           x="220.66609"
+           y="10.587096"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:1.15811">Portal</tspan><tspan
+           sodipodi:role="line"
+           x="220.66609"
+           y="28.920471"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:1.15811"
+           id="tspan104">Currently</tspan><tspan
+           sodipodi:role="line"
+           x="220.66609"
+           y="47.253845"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:1.15811"
+           id="tspan105">Inactive</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.7064px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#007be7;fill-opacity:0.791897;fill-rule:evenodd;stroke:#000000;stroke-width:1.15811;stroke-dasharray:none;stroke-opacity:0.854512"
+         x="221.34026"
+         y="-4.6073103"
+         id="text88-85"
+         transform="scale(0.98385629,1.0164086)"><tspan
+           sodipodi:role="line"
+           id="tspan88-556"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.7064px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#007be7;fill-opacity:0.791897;stroke:#000000;stroke-width:1.15811;stroke-dasharray:none;stroke-opacity:0.854512"
+           x="221.34026"
+           y="-4.6073103">K</tspan></text>
+    </g>
+    <g
+       id="g10"
+       transform="matrix(0.26458333,0,0,0.26458333,-2.7848138,151.16346)">
+      <text
+         xml:space="preserve"
+         x="153.37035"
+         y="79.901497"
+         id="text6352"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.15811"
+         transform="scale(0.98385629,1.0164086)"><tspan
+           sodipodi:role="line"
+           x="153.37035"
+           y="79.901497"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.15811"
+           id="tspan1">Last Updated: June 24th, 2024  </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.15811"
+         x="153.18964"
+         y="100.57265"
+         id="text3591"
+         transform="scale(0.98385629,1.0164086)"><tspan
+           sodipodi:role="line"
+           x="153.18964"
+           y="100.57265"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.15811"
+           id="tspan2">Created by: Yurz Truly (Gnome Cleric)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.15811"
+         x="153.37035"
+         y="121.31545"
+         id="text3591-4"
+         transform="scale(0.98385629,1.0164086)"><tspan
+           sodipodi:role="line"
+           x="153.37035"
+           y="121.31545"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.15811"
+           id="tspan2-1">Email at: yurz.truly@pm.me</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.306417"
+       x="55.478561"
+       y="106.70798"
+       id="text6917"
+       transform="scale(0.98385629,1.0164086)"><tspan
+         sodipodi:role="line"
+         id="tspan6919"
+         x="55.478561"
+         y="106.70798"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.306417">Key</tspan><tspan
+         sodipodi:role="line"
+         x="55.478561"
+         y="111.55869"
+         id="tspan6921"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.306417">Required</tspan><tspan
+         sodipodi:role="line"
+         x="55.478561"
+         y="116.40939"
+         id="tspan6923"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.306417">to Enter</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#08e700;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.13354;stroke-dasharray:none;stroke-opacity:0.854512"
+       id="path97"
+       inkscape:flatsided="true"
+       sodipodi:sides="6"
+       sodipodi:cx="225"
+       sodipodi:cy="465"
+       sodipodi:r1="24.019264"
+       sodipodi:r2="16.984184"
+       sodipodi:arg1="0.25962561"
+       sodipodi:arg2="0.78322439"
+       inkscape:rounded="9.9573128e-16"
+       inkscape:randomized="1.0330278e-15"
+       d="m 248.21429,471.16619 -16.94723,17.02107 -23.21428,-6.1662 -6.26707,-23.18725 16.94723,-17.02107 23.21428,6.1662 z"
+       transform="matrix(0.09328512,0.02431132,-0.0235327,0.09637159,65.129517,89.678297)" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ff9321;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.20789;stroke-dasharray:none;stroke-opacity:0.854512"
+       id="path98"
+       inkscape:flatsided="true"
+       sodipodi:sides="4"
+       sodipodi:cx="235"
+       sodipodi:cy="462.32144"
+       sodipodi:r1="20.935549"
+       sodipodi:r2="18.130716"
+       sodipodi:arg1="0.49798525"
+       sodipodi:arg2="1.2833834"
+       inkscape:rounded="9.9573128e-16"
+       inkscape:randomized="1.0330278e-15"
+       d="M 253.39286,472.32144 225,480.7143 216.60714,452.32144 245,443.92858 Z"
+       transform="matrix(0.13144688,0.038177,-0.03695431,0.135796,61.370714,60.276665)" />
     <a
        id="a2"
        xlink:href="quarm.svg">
       <text
-         id="text4592-4-4"
-         y="-90.165276"
-         x="-28.736265"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.6923px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:#b4cb0c;stroke-width:0.692308;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5212-5)"
          xml:space="preserve"
-         transform="matrix(0.38217591,0,0,0.38217591,18.969768,60.252126)"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.6923px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke:#b4cb0c;stroke-width:0.692308;stroke-dasharray:none;stroke-opacity:1"
-           y="-90.165276"
-           x="-28.736265"
-           id="tspan4594-3-1"
-           sodipodi:role="line">Project Quarm</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#0c77d0;stroke-width:0.529;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.825046;paint-order:normal"
+         x="66.344833"
+         y="155.96045"
+         id="text4-8"><tspan
+           sodipodi:role="line"
+           id="tspan4-61"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#0c77d0;stroke-width:0.529;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.825046"
+           x="66.344833"
+           y="155.96045">Norrath Zone Connection Map</tspan></text>
+    </a>
+    <a
+       id="a1"
+       xlink:href="quarmluclin.svg">
       <text
-         id="text4776"
-         y="45.448296"
-         x="68.042641"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#radialGradient22);fill-opacity:1;stroke:#b4cb0c;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="45.448296"
-           x="68.042641"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#0c77d0;stroke-width:0.529;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.825046;paint-order:normal"
+         x="68.25811"
+         y="164.00526"
+         id="text4-6-3"><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:url(#radialGradient22);fill-opacity:1;stroke:#b4cb0c;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
-           id="tspan66">Everquest </tspan><tspan
-           y="57.795509"
-           x="68.042641"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:url(#radialGradient22);fill-opacity:1;stroke:#b4cb0c;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
-           id="tspan42">Kunark 2.x Era</tspan></text>
-      <path
-         inkscape:connector-curvature="0"
-         id="path5988"
-         d="M 8.1648499,33.23399 H 134.64044"
-         style="fill:#ff0000;fill-opacity:1;stroke:#b4cb0c;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <g
-         id="g10"
-         transform="matrix(0.26458333,0,0,0.26458333,-1.0997271,131.88543)">
-        <rect
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#1d4a3e;fill-opacity:1;stroke:#898700;stroke-width:4.51938;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.730627;marker:none;enable-background:accumulate"
-           id="rect5997"
-           width="378.92957"
-           height="501.43649"
-           x="72.661591"
-           y="-256.194" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.15811"
-           x="217.11613"
-           y="-218.48453"
-           id="text6002"
-           transform="scale(0.98385629,1.0164086)"><tspan
-             sodipodi:role="line"
-             id="tspan6004"
-             x="217.11613"
-             y="-218.48453"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:1.15811">Legend</tspan></text>
-        <rect
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:#383838;stroke-width:1.15811;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-           id="rect3787-45-9-1-6-6"
-           width="68.365028"
-           height="70.626976"
-           x="93.742867"
-           y="-205.57202"
-           ry="17.656746" />
-        <rect
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:#383838;stroke-width:1.15811;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-           id="rect3787-45-21-5"
-           width="68.365028"
-           height="70.626976"
-           x="179.19908"
-           y="-205.57199" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.15811"
-           x="105.20578"
-           y="-162.33572"
-           id="text6044"
-           transform="scale(0.98385629,1.0164086)"><tspan
-             sodipodi:role="line"
-             id="tspan6046"
-             x="105.20578"
-             y="-162.33572"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.15811">Indoors</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.15811"
-           x="184.82327"
-           y="-162.33571"
-           id="text6048"
-           transform="scale(0.98385629,1.0164086)"><tspan
-             sodipodi:role="line"
-             id="tspan6050"
-             x="184.82327"
-             y="-162.33571"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.15811">Outdoors</tspan></text>
-        <rect
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:#383838;stroke-width:1.2261;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-           id="rect3787-45-21-5-18"
-           width="68.297035"
-           height="79.241783"
-           x="93.33078"
-           y="-25.148329" />
-        <rect
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:#383838;stroke-width:1.2261;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-           id="rect3787-45-21-5-18-5"
-           width="68.297043"
-           height="79.241783"
-           x="181.23308"
-           y="-25.148329" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.15811"
-           x="129.27028"
-           y="0.1659729"
-           id="text6048-9"
-           transform="scale(0.98385629,1.0164086)"><tspan
-             sodipodi:role="line"
-             id="tspan6050-7"
-             x="129.27028"
-             y="0.1659729"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:1.15811">Zone</tspan><tspan
-             sodipodi:role="line"
-             x="129.27028"
-             y="18.499348"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:1.15811"
-             id="tspan55">Currently</tspan><tspan
-             sodipodi:role="line"
-             x="129.27028"
-             y="36.832726"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:1.15811"
-             id="tspan103">Inactive</tspan></text>
-        <path
-           style="fill:none;fill-opacity:0.976471;stroke:#cecece;stroke-width:1.15811px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.976471"
-           d="m 294.10432,-178.85848 87.08397,-0.84082"
-           id="path3865-7-54-3"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:none;stroke:#00e3c5;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:8, 8;stroke-dashoffset:0;stroke-opacity:0.976471"
-           d="m 294.10432,-149.43057 87.08397,-0.84082"
-           id="path3865-7-54-4"
-           inkscape:connector-curvature="0" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.15811"
-           x="289.00348"
-           y="-188.37943"
-           id="text6077"
-           transform="scale(0.98385629,1.0164086)"><tspan
-             sodipodi:role="line"
-             id="tspan6079"
-             x="289.00348"
-             y="-188.37943"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:1.15811">Zone Connection</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.15811"
-           x="284.86731"
-           y="-156.31841"
-           id="text6081"
-           transform="scale(0.98385629,1.0164086)"><tspan
-             sodipodi:role="line"
-             id="tspan6083"
-             x="284.86731"
-             y="-156.31841"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:1.15811">Ocean Connection</tspan></text>
-        <ellipse
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.15811;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-           id="path6085-1"
-           cx="290.88379"
-           cy="-91.731064"
-           rx="8.5456285"
-           ry="8.828373" />
-        <path
-           sodipodi:type="star"
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.0776;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-           id="path6105"
-           sodipodi:sides="3"
-           sodipodi:cx="420"
-           sodipodi:cy="285"
-           sodipodi:r1="11.18034"
-           sodipodi:r2="5.5901699"
-           sodipodi:arg1="0.46364761"
-           sodipodi:arg2="1.5108452"
-           inkscape:flatsided="true"
-           inkscape:rounded="0"
-           inkscape:randomized="0"
-           d="m 430,290 -19.33013,1.16025 8.66026,-17.3205 z"
-           transform="matrix(1.0559149,0.05716911,-0.05533816,1.0908514,-136.87198,-396.2962)"
-           inkscape:transform-center-x="-0.039382621"
-           inkscape:transform-center-y="-2.5596105" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.15811"
-           x="313.0249"
-           y="-86.876404"
-           id="text6107"
-           transform="scale(0.98385629,1.0164086)"><tspan
-             sodipodi:role="line"
-             id="tspan6109"
-             x="313.0249"
-             y="-86.876404"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:1.15811">Druid Portal</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.15811"
-           x="313.75775"
-           y="-56.955242"
-           id="text6111"
-           transform="scale(0.98385629,1.0164086)"><tspan
-             sodipodi:role="line"
-             id="tspan6113"
-             x="313.75775"
-             y="-56.955242"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:1.15811">Wizard Portal</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.15811"
-           x="312.99097"
-           y="-29.006212"
-           id="text6111-1"
-           transform="scale(0.98385629,1.0164086)"><tspan
-             sodipodi:role="line"
-             id="tspan6113-1"
-             x="312.99097"
-             y="-29.006212"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:1.15811">Knowledge Portal</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.15811"
-           x="312.99774"
-           y="-0.020849988"
-           id="text6111-1-2"
-           transform="scale(0.98385629,1.0164086)"><tspan
-             sodipodi:role="line"
-             x="312.99774"
-             y="-0.020849988"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:1.15811"
-             id="tspan96">Firepot Portal</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.15811"
-           x="313.84097"
-           y="29.2801"
-           id="text6111-1-7"
-           transform="scale(0.98385629,1.0164086)"><tspan
-             sodipodi:role="line"
-             id="tspan6113-1-5"
-             x="313.84097"
-             y="29.2801"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:1.15811">Shaman Portal</tspan></text>
-        <rect
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:#fe0000;stroke-width:2.003;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-           id="rect3787-45-21-5-1"
-           width="73.771042"
-           height="70.581718"
-           x="90.593781"
-           y="-117.26564" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4130ff;fill-opacity:1;stroke:none;stroke-width:1.15811"
-           x="130.22829"
-           y="-85.096031"
-           id="text4386"
-           transform="scale(0.98385629,1.0164086)"><tspan
-             sodipodi:role="line"
-             id="tspan4389"
-             x="130.22829"
-             y="-85.096031"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4130ff;fill-opacity:1;stroke-width:1.15811">Planar:</tspan><tspan
-             sodipodi:role="line"
-             x="130.22829"
-             y="-66.762657"
-             id="tspan4391"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4130ff;fill-opacity:1;stroke-width:1.15811">Level 46+</tspan></text>
-        <path
-           style="fill:none;stroke:#cecece;stroke-width:1.15811px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.976471;marker-end:url(#Arrow2Lend-7)"
-           d="m 294.10432,-120.00266 87.08397,-0.84082"
-           id="path3865-7-54-3-1"
-           inkscape:connector-curvature="0" />
-        <text
-           id="text4714"
-           y="-126.9642"
-           x="272.80167"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.15811"
-           xml:space="preserve"
-           transform="scale(0.98385629,1.0164086)"><tspan
-             y="-126.9642"
-             x="272.80167"
-             id="tspan4716"
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:1.15811">1-way Zone Connection</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.7064px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#007be7;fill-opacity:0.791897;fill-rule:evenodd;stroke:#000000;stroke-width:1.15811;stroke-dasharray:none;stroke-opacity:0.854512"
-           x="294.50473"
-           y="-25.915201"
-           id="text88"
-           transform="scale(0.98385629,1.0164086)"><tspan
-             sodipodi:role="line"
-             id="tspan88"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.7064px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#007be7;fill-opacity:0.791897;stroke:#000000;stroke-width:1.15811;stroke-dasharray:none;stroke-opacity:0.854512"
-             x="294.50473"
-             y="-25.915201">K</tspan></text>
-        <g
-           id="g108"
-           style="opacity:0.25"
-           transform="translate(-1.7193487,-0.07056999)">
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.15811"
-             x="220.66609"
-             y="10.587096"
-             id="text6111-1-71"
-             transform="scale(0.98385629,1.0164086)"><tspan
-               sodipodi:role="line"
-               id="tspan6113-1-9"
-               x="220.66609"
-               y="10.587096"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:1.15811">Portal</tspan><tspan
-               sodipodi:role="line"
-               x="220.66609"
-               y="28.920471"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:1.15811"
-               id="tspan104">Currently</tspan><tspan
-               sodipodi:role="line"
-               x="220.66609"
-               y="47.253845"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:1.15811"
-               id="tspan105">Inactive</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.7064px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#007be7;fill-opacity:0.791897;fill-rule:evenodd;stroke:#000000;stroke-width:1.15811;stroke-dasharray:none;stroke-opacity:0.854512"
-             x="221.34026"
-             y="-4.6073103"
-             id="text88-85"
-             transform="scale(0.98385629,1.0164086)"><tspan
-               sodipodi:role="line"
-               id="tspan88-556"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.7064px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#007be7;fill-opacity:0.791897;stroke:#000000;stroke-width:1.15811;stroke-dasharray:none;stroke-opacity:0.854512"
-               x="221.34026"
-               y="-4.6073103">K</tspan></text>
-        </g>
-        <g
-           id="g116"
-           transform="translate(-6.4317513,5.7879753)">
-          <text
-             xml:space="preserve"
-             x="156.07465"
-             y="139.96887"
-             id="text6352"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#cecece;fill-opacity:0.976471;stroke:none;stroke-width:0.0105272;stroke-dasharray:none;stroke-opacity:0.976471"
-             transform="scale(0.98385629,1.0164086)"><tspan
-               sodipodi:role="line"
-               x="156.07465"
-               y="139.96887"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#cecece;fill-opacity:0.976471;stroke:none;stroke-width:0.0105272;stroke-dasharray:none;stroke-opacity:0.976471"
-               id="tspan1">Last Updated: June 24th, 2024  </tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cecece;fill-opacity:0.976471;stroke:none;stroke-width:0.0115233;stroke-dasharray:none;stroke-opacity:0.976471"
-             x="155.89394"
-             y="160.64003"
-             id="text3591"
-             transform="scale(0.98385629,1.0164086)"><tspan
-               sodipodi:role="line"
-               x="155.89394"
-               y="160.64003"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#cecece;fill-opacity:0.976471;stroke:none;stroke-width:0.0115233;stroke-dasharray:none;stroke-opacity:0.976471"
-               id="tspan2">Created by: Yurz Truly (Gnome Cleric)</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cecece;fill-opacity:0.976471;stroke:none;stroke-width:0.0115233;stroke-dasharray:none;stroke-opacity:0.976471"
-             x="156.07465"
-             y="181.38283"
-             id="text3591-4"
-             transform="scale(0.98385629,1.0164086)"><tspan
-               sodipodi:role="line"
-               x="156.07465"
-               y="181.38283"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#cecece;fill-opacity:0.976471;stroke:none;stroke-width:0.0115233;stroke-dasharray:none;stroke-opacity:0.976471"
-               id="tspan2-1">Email at: yurz.truly@pm.me</tspan></text>
-        </g>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#cecece;fill-opacity:0.976471;stroke:#b4cb0c;stroke-width:0.0115233;stroke-dasharray:none;stroke-opacity:1"
-           x="262.11481"
-           y="176.3192"
-           id="text3591-4-2"
-           transform="scale(0.98385629,1.0164086)"><tspan
-             sodipodi:role="line"
-             x="262.11481"
-             y="176.3192"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#cecece;fill-opacity:0.976471;stroke:#b4cb0c;stroke-width:0.0115233;stroke-dasharray:none;stroke-opacity:1"
-             id="tspan2-1-8" /><tspan
-             sodipodi:role="line"
-             x="262.11481"
-             y="194.65257"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#cecece;fill-opacity:0.976471;stroke:#b4cb0c;stroke-width:0.0115233;stroke-dasharray:none;stroke-opacity:1"
-             id="tspan117" /><tspan
-             sodipodi:role="line"
-             x="262.11481"
-             y="212.98595"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#cecece;fill-opacity:0.976471;stroke:#b4cb0c;stroke-width:0.0115233;stroke-dasharray:none;stroke-opacity:1"
-             id="tspan118">Credit to: Project Quarm Database Interface</tspan><tspan
-             sodipodi:role="line"
-             x="262.11481"
-             y="231.31932"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#cecece;fill-opacity:0.976471;stroke:#b4cb0c;stroke-width:0.0115233;stroke-dasharray:none;stroke-opacity:1"
-             id="tspan116">For zone data. https://www.pqdi.cc</tspan></text>
-        <path
-           inkscape:connector-curvature="0"
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:#383838;stroke-width:1.15811;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:url(#EmptyDiamondL-1);marker-mid:url(#EmptyDiamondL-1);paint-order:normal;enable-background:accumulate"
-           d="m 196.43626,-112.49854 h 34.18252 c 9.46855,0 17.09125,7.8749 17.09125,17.656745 v 35.313473 c 0,9.781836 -7.6227,17.656744 -17.09125,17.656744 h -34.18252 c -9.46855,0 -17.09125,-7.874908 -17.09125,-17.656744 v -35.313473 c 0,-9.781845 7.6227,-17.656745 17.09125,-17.656745 z"
-           id="rect3787-45-4-21-2-24-19-1-0-7-7-0-7-5-1" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.15811"
-           x="216.54773"
-           y="-89.100052"
-           id="text6917"
-           transform="scale(0.98385629,1.0164086)"><tspan
-             sodipodi:role="line"
-             id="tspan6919"
-             x="216.54773"
-             y="-89.100052"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.15811">Key</tspan><tspan
-             sodipodi:role="line"
-             x="216.54773"
-             y="-70.766678"
-             id="tspan6921"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.15811">Required</tspan><tspan
-             sodipodi:role="line"
-             x="216.54773"
-             y="-52.4333"
-             id="tspan6923"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.15811">to Enter</tspan></text>
-        <path
-           sodipodi:type="star"
-           style="fill:#08e700;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.13354;stroke-dasharray:none;stroke-opacity:0.854512"
-           id="path97"
-           inkscape:flatsided="true"
-           sodipodi:sides="6"
-           sodipodi:cx="225"
-           sodipodi:cy="465"
-           sodipodi:r1="24.019264"
-           sodipodi:r2="16.984184"
-           sodipodi:arg1="0.25962561"
-           sodipodi:arg2="0.78322439"
-           inkscape:rounded="9.9573128e-16"
-           inkscape:randomized="1.0330278e-15"
-           d="m 248.21429,471.16619 -16.94723,17.02107 -23.21428,-6.1662 -6.26707,-23.18725 16.94723,-17.02107 23.21428,6.1662 z"
-           transform="matrix(0.35257367,0.09188529,-0.0889425,0.36423909,252.91298,-165.54389)" />
-        <path
-           sodipodi:type="star"
-           style="fill:#ff9321;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.20789;stroke-dasharray:none;stroke-opacity:0.854512"
-           id="path98"
-           inkscape:flatsided="true"
-           sodipodi:sides="4"
-           sodipodi:cx="235"
-           sodipodi:cy="462.32144"
-           sodipodi:r1="20.935549"
-           sodipodi:r2="18.130716"
-           sodipodi:arg1="0.49798525"
-           sodipodi:arg2="1.2833834"
-           inkscape:rounded="9.9573128e-16"
-           inkscape:randomized="1.0330278e-15"
-           d="M 253.39286,472.32144 225,480.7143 216.60714,452.32144 245,443.92858 Z"
-           transform="matrix(0.49680712,0.14429103,-0.13966985,0.51324472,238.70648,-276.66817)" />
-        <a
-           id="a1-2"
-           xlink:href="pqkunarkmap-luclin.svg"
-           style="fill:#fff700;fill-opacity:1;stroke:#b4cb0c;stroke-width:0.0099501;stroke-dasharray:none;stroke-opacity:1"
-           transform="translate(-6.4317513,5.7879753)">
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#f38123;fill-opacity:1;fill-rule:evenodd;stroke:#b4cb0c;stroke-width:0.0099501;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-             x="263.93805"
-             y="79.183357"
-             id="text4"><tspan
-               sodipodi:role="line"
-               id="tspan4"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f38123;fill-opacity:1;stroke:#b4cb0c;stroke-width:0.0099501;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               x="263.93805"
-               y="79.183357">Luclin Zone Connection Map</tspan></text>
-        </a>
-        <a
-           id="a4-5"
-           target=""
-           xlink:href="pqkunarkmap.svg"
-           transform="matrix(3.7795276,0,0,3.7795276,-6.9072126,-539.06096)"
-           style="stroke:#b4cb0c;stroke-width:0.0099501;stroke-dasharray:none;stroke-opacity:1">
-          <a
-             id="a1-4"
-             style="fill:#f38123;fill-opacity:1;stroke:#b4cb0c;stroke-width:0.0099501;stroke-dasharray:none;stroke-opacity:1">
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;opacity:1;fill:#f38123;fill-opacity:1;fill-rule:evenodd;stroke:#b4cb0c;stroke-width:0.0099501;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-               x="69.226845"
-               y="173.15335"
-               id="text4-6"><tspan
-                 sodipodi:role="line"
-                 id="tspan4-6"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f38123;fill-opacity:1;stroke:#b4cb0c;stroke-width:0.0099501;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-                 x="69.226845"
-                 y="173.15335">Norrath Zone Connection Map</tspan></text>
-          </a>
-        </a>
-      </g>
+           id="tspan4-6-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#0c77d0;stroke-width:0.529;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.825046"
+           x="68.25811"
+           y="164.00526">Luclin Zone Connection Map</tspan></text>
     </a>
   </g>
   <metadata
